@@ -50,7 +50,3 @@ Bu proje, klasik Flappy Bird oyununu ASP.NET Web Forms (.NET Framework 4.7.2) ü
   Oyuncu adı için geçersiz karakter ve uzunluk kontrolü yapılır.
 
 
----
-
-**Hazırlayan:**  
-GitHub Copilot
